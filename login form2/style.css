@@ -1,0 +1,38 @@
+body{
+    background-color: #0f0f0ff5;
+}
+form{
+    background-color: #c5c5df38;
+    width: 30%;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+    border: none;
+    outline: none;
+    padding: 10px 80px 10px 10px;
+    border-radius: 5px;
+    background-color: #b4b4de;
+}
+button{
+    border: none;
+    outline: none;
+    padding: 10px 100px 10px 100px;
+    background-color: #040505;
+    border-radius: 5px;
+    color: #fff;
+}
+p{
+    color: #fbf6f6;
+}
+p a{
+    text-decoration: none;
+    color: #a8a8bc;
+}
+span{
+    display: none;
+}
