@@ -1,0 +1,48 @@
+body{
+    background-color: aliceblue;
+}
+form{
+    background-color: #0000ff78;
+    width: 30%;
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+    border: none;
+    outline: none;
+    padding: 10px 80px 10px 10px;
+    border-radius: 5px;
+    background-color: aliceblue;
+}
+button{
+    border: none;
+    outline: none;
+    padding: 10px 189px 10px 10px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    color: #333333c4;
+}
+p{
+    color: #fbf6f6;
+}
+p a{
+    text-decoration: none;
+    color: #17179c;
+}
+
+.modal{
+    background-color: blue;
+    width: 19%;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    font-size: 20px;
+    top: 30px;
+    position: absolute;
+    right: 40px;
+    display: none;
+}
