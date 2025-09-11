@@ -1,0 +1,35 @@
+body{
+    background-color: #d3cec963;
+}
+.box-form{
+    width: 309px;
+    background-color: #292626fc;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 75px auto;
+}
+.box-form input{
+    margin: 10px 0 0 0;
+    padding: 12px;
+    border: none;
+    outline: none;
+}
+.box-form span{
+    color: #fff;
+    display: none;
+}
+.box-form button{
+    background-color: #fff;
+    border: none;
+    outline: none;
+    margin: 20px 0;
+    padding: 10px 68px;
+}
+p{
+    color: #fff;
+}
+p a{
+    text-decoration:none ;
+    color: #595cc5;
+}

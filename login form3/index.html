@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <form action="" id="form" >
+        <div class="box-form">
+            <input type="text" name="username" id="username" placeholder="userName" onblur="usernameBlur ()" onfocus="usernamefocus()">
+            <br>
+            <span class="username-error">یوزرنیم باید حداقل 12 کاراکتر باشد</span>
+            <br>
+            <input type="password" name="password" id="password" placeholder="passWord" onblur="passwordBlur ()" onfocus="passwordfocus()">
+            <br>
+            <span class="password-error">پسورد حداقل باید 8 کاراکتر باشد</span>
+            <button type="button" onclick="buttonclick ()">click here</button>
+            <br>
+            <span class="enter">enter to your panel</span>
+            <p>have not account? <a href="#">create account</a></p>
+        </div>
+    </form>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
