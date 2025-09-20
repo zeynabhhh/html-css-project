@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(99, 99, 250);
+}
+body h1{
+    text-align: center;
+    margin-top: 100px;
+    color: #fff;
+}
+input{
+    padding: 10px 170px 10px 8px;
+    /* display: flex; */
+    /* justify-content: space-around; */
+    margin: 51px 481px 0 481px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+body .box{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 27px 50px;
+}
+span{
+    margin: 36px 594px 0;
+    font-size: 25px;
+    font-weight: 600;
+    display:block;
+    color: red;
+}
+body .box button{
+    text-decoration: none;
+    background-color: #fff;
+    padding: 10px 20px;
+    color: #03033e;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+}
