@@ -1,0 +1,45 @@
+body{
+    background-image: url(img/1.jpg);
+    background-size: 100%;
+}
+.wither-back{
+    background-color: #00000094;
+    width: 30%;
+    height: 220px;
+    margin: 239px auto;
+    border-radius: 5px;
+}
+.search{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.wither-back input{
+    padding: 10px 40px;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    margin: 45px 78px;
+    background-color: #f1eded8c;
+}
+a {}
+a svg{
+    width: 25px;
+    fill: #b2b0b0;
+    background-color: black;
+    padding: 5px;
+    margin: 12px;
+    border-radius: 14px;
+}
+span{
+    font-size: 24px;
+    font-weight: 600;
+    margin: 82px;
+    color: #dfff;
+}
+.temp{
+    
+}
+.info{
+    
+}
